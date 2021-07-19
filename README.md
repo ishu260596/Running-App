@@ -19,7 +19,7 @@ live location, and calculate their distance, speed and calories burned
 - [RoomDatabase](https://firebase.google.com/) - for stroign user data and screenshots. 
 </br>
 <br>
-- [Google Maps] for showimg movement of app or driver on the road.
+- [Google Maps] for showing movement of app or driver on the road.
 </br>
 <br>
 - [Glide](https://github.com/bumptech/glide) - loading images.
