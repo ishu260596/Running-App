@@ -9,9 +9,6 @@ live location, and calculate their distance, speed and calories burned
 <p align="center">
 <img src="https://user-images.githubusercontent.com/55504024/126123701-95675950-ce65-42ac-b87c-1f67a0c41169.jpg"/>
 </p>
-## Download
-Go to the [Releases](https://drive.google.com/drive/folders/1hcN2e-W5lqCq98Wcd_Wv2nYzn_GRjC0-?usp=sharing) to download the latest APK.
-<img src="/screenshots/appworking.gif" align="right" width="32%"/>
 ## Tech stack & Open-source libraries
 
 - Minimum SDK level 21
