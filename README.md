@@ -1,6 +1,6 @@
 # Running-App
 
-<h1 align="center">Running Appp</h1>
+<h1 align="center">Running App</h1>
 <p align="center">  
 A fitness app that allows users to track their running activity, show their
 live location, and calculate their distance, speed and calories burned
